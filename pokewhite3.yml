@@ -1,0 +1,8 @@
+White3Project:
+  - BaseROMCode: IRDO
+  - ExecutableFileSystemPath: "gameblackwhite2/exefs"
+  - ROMFileSystemPath: "gameblackwhite2/romfs"
+  - ProjectROMCode: "FUKU"
+  - ProjectGameTitle: "RIEMANN SUMM"
+  - OverlayModulePath: "gameblackwhite2/overlays"
+  - NARCsPath: "gameblackwhite2/garcs"
