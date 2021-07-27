@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyName>Hotswap.CommandLineInterface</AssemblyName>
+        <RootNamespace>Hotswap.CommandLineInterface</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Hotswap\Hotswap\Hotswap.csproj" />
+    </ItemGroup>
+
+</Project>
